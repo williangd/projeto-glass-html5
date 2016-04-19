@@ -13,6 +13,8 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.mp3
+*.mp4
 
 # Windows shortcuts
 *.lnk
